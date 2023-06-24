@@ -1,0 +1,44 @@
+
+import './App.css';
+
+
+function App() {
+  return (
+    <div className="App">
+      
+
+	  <h1>Kilopi Ecosystem</h1>
+
+<div className="Appx">
+	  
+	  <figure className="snip1361">
+  <img src="https://kilopi.net/files/necessary/ecos/tranquil.png" alt="sample45" />
+  <figcaption>
+    <h3>Tranquil exchange</h3>
+    <p>Swap LOP tokens on Harmony Blockchain</p>
+  </figcaption>
+  <a href="https://app.defira.com/#/swap?inputCurrency=0xcf664087a5bb0237a0bad6742852ec6c8d69a27a&outputCurrency=0x1791c97603b4695f53a4f1c02ca0efb74c44b310" target="_blank"
+                rel="noreferrer"> </a>
+</figure>
+<figure className="snip1361"><img src="https://kilopi.net/files/necessary/ecos/pancake.png" alt="sample77" />
+  <figcaption>
+    <h3>Pancake exchange</h3>
+    <p>Swap LOP tokens on Binance Smart Chain</p>
+  </figcaption>
+  <a href="https://pancakeswap.finance/swap?outputCurrency=0x20B4620a767D6dCcBB9314104D5Cf0d08d1F7045" target="_blank"
+                rel="noreferrer"> </a>
+</figure>
+
+	  
+	  
+	  </div>
+	  
+	  
+	  
+	  
+	  
+    </div>
+  );
+}
+
+export default App;
