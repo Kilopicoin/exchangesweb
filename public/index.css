@@ -11,8 +11,12 @@ body{
     align-items: center;
     flex-wrap: wrap;
     flex-direction: column;
-    background-image: radial-gradient(circle, #0074a6, #3e507a, #3d324c, #271b24, #000000);
-    padding-bottom: 450px;
+    padding-bottom: 60px;
+}
+
+h5 {
+    margin-top: 3px;
+    color: rgb(9, 6, 161);
 }
 .container{
     position: relative;
@@ -89,9 +93,10 @@ body{
     box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2);
 }
 .service{
-    font-size: 1.8em;
-    margin:1.6rem auto;
-    color: cyan;
+    font-size: 1.5em;
+    margin-top: 21px;
+    margin-bottom: 5px;
+    color: rgb(184, 222, 233);
     text-align: center;
 }
 
