@@ -16,7 +16,8 @@ body{
 
 h5 {
     margin-top: 3px;
-    color: rgb(9, 6, 161);
+    color: rgb(168, 168, 204);
+    text-align: center;
 }
 .container{
     position: relative;
